@@ -1,5 +1,6 @@
 {
-  "name": "malihu-custom-scrollbar-plugin",
+  "name": "malihu-custom-scrollbar-ie-efficient",
+  "version": "1.0.0.0",
   "title": "malihu custom scrollbar plugin",
   "description": "Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support, user defined callbacks etc.",
   "main": [
